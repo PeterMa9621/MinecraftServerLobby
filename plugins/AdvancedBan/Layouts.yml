@@ -14,21 +14,23 @@
 # Example usage: /ban Leoko @ExampleLayout
 Message:
   ExampleLayout:
-    - '%PREFIX% &7Banned for Hacking'
-    - '&c&oBanned by %OPERATOR%'
+    - '%PREFIX% &7你已被禁止登陆该服务器'
     - '&7'
-    - "&cIt seems like you are using a"
-    - "&chacked client please disable it!"
-    - "&cUnban in &8» &7%DURATION%"
+    - "&c如果你使用了作弊客户端"
+    - "&c请关闭作弊客户端!"
     - '&7'
-    - '&8Unban application in TS or forum'
-    - "&eTS-Ip &8» &c&ncoming soon"
-    - "&eForum &8» &c&ncoming soon"
+    - "&c如果你因为谩骂被封"
+    - "&c请停止谩骂!"
+    - "&c封禁时间 &8» &7%DURATION%"
   ExampleLayout2:
-    - '%PREFIX% &7Banned for offensive language'
+    - '%PREFIX% &7你已被禁止登陆该服务器'
     - '&7'
-    - "&cWe don't tolerate swearing on our server!"
-    - "&cYou got banned for the word '%REASON%'" # You can even use reasons in message layouts
+    - "&c如果你使用了作弊客户端"
+    - "&c请关闭作弊客户端!"
+    - '&7'
+    - "&c如果你因为谩骂被封"
+    - "&c请停止谩骂!"
+    - "&c封禁时间 &8» &7%DURATION%"
 
 # You would use this time-layout for example like this: "/tempban Leoko #ExampleLayout Hacking in FFA"
 # Or with "/tempwarn Leoko #ExampleLayout Advertising" or even "/tempwarn Leoko #ExampleLayout No capslock please"
