@@ -1,4 +1,4 @@
-player-not-online: '&cPlayer is not online.'
-in-cooldown: '&cYou can use that command after %time% seconds'
-teleportation-started: '&7You will be teleported in &a%time%&7 seconds! &cDont move!'
-teleportation-cancelled: '&cTeleportation cancelled'
+player-not-online: '&c玩家不在线.'
+in-cooldown: '&c你需要在 %time% 秒才能传送'
+teleportation-started: '&7你的传送将在 &a%time%&7 秒后开始! &c请不要移动!'
+teleportation-cancelled: '&c传送被取消了'
