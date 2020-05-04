@@ -1,0 +1,9 @@
+database:
+  name: minecraft
+  address: localhost
+  port: 3306
+  username: root
+  password: mjy159357
+teleportation-delay: 750
+debug: false
+use-tab-completer: true
