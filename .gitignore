@@ -102,3 +102,7 @@ plugins/ServerListPlus/PlayerCache.json
 plugins/AuthMe/authme.log
 
 plugins/ItemsAdder/config.yml
+
+plugins/MultiChat/namedata.dat
+
+runDev.bat
