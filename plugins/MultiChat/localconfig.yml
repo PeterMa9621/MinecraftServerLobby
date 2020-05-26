@@ -18,7 +18,7 @@ version: "1.9"   #
 # 5. Channel Control (Support for Towny etc.)
 
 # Specify the name of this server here for the %SERVER% placeholder
-server_name: "UNNAMED_SERVER"
+server_name: "登录大厅"
 
 ############################################################
 # +------------------------------------------------------+ #
