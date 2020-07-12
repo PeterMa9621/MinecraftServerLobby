@@ -3,7 +3,7 @@
 # Those are automatically imported from your bukkit.yml.
 # Set them there if you didn't already.
 whitelist:
-- 127.0.0.1
+- 154.8.194.127
 playerKickMessage: '&c请从大厅登陆.'
 debug: false
 setup: false
